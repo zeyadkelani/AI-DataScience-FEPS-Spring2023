@@ -1,1 +1,1 @@
-# AI-DS-FEPS-Spring2023
+# P420 Introduction to Artificial Intelligence and Data Science in Empirical Political Science
