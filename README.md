@@ -3,6 +3,7 @@
 <br/>
 This course is designed to introduce the intersection of machine learning, data science, and political science. Through a combination of theoretical and practical instruction, you will understand how these fields can be used to analyze and interpret political phenomena. Topics covered will include:
 <br/>
+
 * An introduction to machine learning and data science concepts and techniques, including supervised and unsupervised learning, data preprocessing, and evaluation methods <br/>
 
 * Applications of machine learning in political science, such as text analysis social media data, network analysis of political campaigns, and prediction of political outcomes <br/>
